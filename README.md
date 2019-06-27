@@ -14,3 +14,4 @@
 
 [来自网友的一些消息集合（6月13日）](https://github.com/reporterr/reporter/blob/master/r7.md)
 
+[回應趙皓陽：知識錯漏為你補上，品性問題還需你自己努力](https://github.com/reporterr/reporter/blob/master/r8.md)
