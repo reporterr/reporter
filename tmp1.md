@@ -1,6 +1,7 @@
 1.SSD方式
 
-  [点击下载 SSD](https://cordcloud.fun/ssr-download/ssd-android.apk) [点击下载 SS 混淆插件](https://cordcloud.fun/ssr-download/ssd-android.apk)
+  [点击下载 SSD](https://github.com/reporterr/reporter/raw/master/files/ssd-android.apk) 
+  [点击下载 SS 混淆插件](https://github.com/reporterr/reporter/raw/master/files/ss-android-obfs.apk)
 
   安装后，在手机上点击复制下方的订阅链接
 
