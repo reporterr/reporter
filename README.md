@@ -18,4 +18,5 @@
 
 [銅鑼灣書店股東及員工失蹤事件](https://github.com/reporterr/reporter/blob/master/r9.md)
 
+[专访刘细良：中港是命运共同体，是我们那一代人最错误的观念](https://github.com/reporterr/reporter/blob/master/r10.md)
 
